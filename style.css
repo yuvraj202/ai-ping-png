@@ -1,0 +1,66 @@
+body 
+{
+   background-image: url("background1.jpg");
+   
+   background-size: cover;
+}
+
+
+
+h4 
+{
+    background-color: white;
+    line-height: 2px;
+    margin: 0px;
+    margin-bottom: 0px;
+}
+
+
+
+.img123
+{
+    display: inline;
+    width: 900px;
+    height: 200px;
+    
+
+}
+
+
+
+
+.heading h3
+{
+    text-align: left;
+    width: 1000%;
+    display: inline;
+    border-color: white;
+    border-width: 10%;
+    font-weight: bold;
+}
+ 
+
+
+#start,#status
+{   
+    font-size: 22px;
+}
+
+
+
+.instructions
+{
+    text-align: right;
+    font-weight: bold;
+}
+
+
+
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius:10px;
+    margin-top: 50;
+}
+
+
